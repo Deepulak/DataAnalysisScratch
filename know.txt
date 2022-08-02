@@ -1,0 +1,36 @@
+7. Getting & Processing Data
+
+start form there
+
+You can start with the UCI Machine Learning Repository
+(https://archive.ics.uci.edu/ml/datasets.html) wherein you can access datasets
+about business, engineering, life sciences, social sciences, and physical sciences.
+You can find data about El Nino, social media, handwritten characters,
+sensorless drive diagnosis, bank marketing, and more. It’s more than enough to
+fill your time for months and years if you get serious on large-scale data
+analysis.
+
+(https://www.kaggle.com/datasets) such as data about Titanic Survival, grocery
+shopping, medical diagnosis, historical air quality, Amazon reviews, crime
+statistics, and housing prices.
+
+
+Source of images and code: https://matplotlib.org/2.0.2/gallery.html
+
+Source:http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html#sphx-glr-auto-
+examples-linear-model-plot-ols-py
+
+we need to work on 2 script 1 is position_salaries.py and 2 is random_forest.py
+
+start from random forest classification
+
+take a look on k-means_clustering.py script try to resolve that script
+
+It’s an interesting topic itself and if you want to dig deeper, you
+can read the following Thompson Sampling tutorial from Stanford:
+https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
+
+From https://iamtrask.github.io/2015/07/12/basic-
+python-network/ 
+
+
